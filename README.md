@@ -4,6 +4,11 @@ This gem contains the AngelList strategy for OmniAuth.
 
 AngelList uses the OAuth2 flow, you can read about it here: http://angel.co/api/oauth/faq
 
+## What has been changed in this fork
+
+- add email to results
+- minor refactor
+
 ## How To Use It
 
 So let's say you're using Rails, you need to add the strategy to your `Gemfile`:
